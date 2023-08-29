@@ -1,0 +1,14 @@
+// Setup
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+@import "setup/variables";
+
+// Basics
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/base";
+
+@import "pages/index";
+@import "components/loader/index";
+@import "components/btn/index";
